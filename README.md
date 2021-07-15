@@ -69,9 +69,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/goutam-choudhary/" alt="Linkedin"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="30" width="30"></a>
-  <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="30" width="30"></a>
-  <a href="https://codeforces.com/anitish_225" alt="Codechef"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" height="30" width="30"></a>
-  <a href="https://leetcode.com/Goutam_Choudhary/" alt="Leetcode"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="30" width="30"></a>
-  <a href="mailto:goutamchoudhary4053@gmail.com" alt="Contact me"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/goutam-choudhary/" alt="Linkedin"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="30" width="40"></a>
+  <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="30" width="40"></a>
+  <a href="https://codeforces.com/anitish_225" alt="Codechef"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" height="30" width="40"></a>
+  <a href="https://leetcode.com/Goutam_Choudhary/" alt="Leetcode"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="30" width="40"></a>
+  <a href="mailto:goutamchoudhary4053@gmail.com" alt="Contact me"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" height="30" width="40"></a>
 </p>
