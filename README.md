@@ -6,8 +6,8 @@
 - ✍️ &nbsp; Experienced in Machine Learning and Web Development(MERN Stack Development).
 - 💼 &nbsp; Working as a Technology Trainee at RBL Bank, India.
 - 🤔 &nbsp; Solid Understanding of Computer Science Fundamentals and Data Structures and Algorithms.
-- 🎓 &nbsp; Possess creative problem-solving skills and love to do competitive programming.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Designs and Latest Technologies.
+- 🎓 &nbsp; Possess creative problem-solving skills and Analytical thinking.
+- 🌱 &nbsp; Learning more about Cloud Architectures, System Designs and Latest Technologies.
 
 
 
